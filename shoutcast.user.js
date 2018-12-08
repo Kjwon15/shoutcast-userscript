@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Copy streaming URL on shoutcast
 // @author       Kjwon15
-// @match        http://www.shoutcast.com/
+// @match        https://directory.shoutcast.com/
 // @grant        GM_setClipboard
 // ==/UserScript==
 
